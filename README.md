@@ -1,4 +1,4 @@
-# Part 2: Nginx Site Configuration and Activation
+# Nginx Site Configuration and Activation
 
 ## Commands to Execute
 
